@@ -6,7 +6,7 @@
 
 - 👨‍💻 My best projects are here at my portfolio: https://idsportfolio.netlify.app
 
-- 📄 Check my resume here: https://drive.google.com/file/d/17FZ9rXJjCcgbRlVBX4GXA-1GaF5Y3SS9/view
+- 📄 Check my resume here: https://drive.google.com/file/d/1f4WeyOjFTB0s-n8I6ES7PbwhqT2b2i4d/view
 
 - 📫 Email me at: ishaandhawane77@gmail.com
 
