@@ -2,3 +2,6 @@
 
 <h3 >Software developer at Namshi ♥</h3>
 
+<hr>
+
+<h3 >About</h3>
